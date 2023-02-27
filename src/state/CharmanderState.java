@@ -2,6 +2,7 @@ package state;
 
 public class CharmanderState implements PokemonState{
 
+    //jep
     public CharmanderState(Pokemon pokemon) {}
     @Override
     public void toimi() {

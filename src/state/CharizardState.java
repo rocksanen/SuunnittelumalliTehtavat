@@ -1,6 +1,8 @@
 package state;
 
 public class CharizardState implements PokemonState{
+
+    //jep
     private final Pokemon pokemon;
 
     public CharizardState(Pokemon pokemon) {

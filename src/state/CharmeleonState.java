@@ -1,6 +1,7 @@
 package state;
 
 public class CharmeleonState implements PokemonState{
+    //jep
     private final Pokemon pokemon;
 
     public CharmeleonState(Pokemon pokemon) {

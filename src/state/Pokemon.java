@@ -1,6 +1,8 @@
 package state;
 
 public class Pokemon {
+
+    //jep
     private PokemonState currentState;
 
     public Pokemon() {
