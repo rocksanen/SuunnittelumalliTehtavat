@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class AccessControlDecorator implements IDataStructure {
 
+    //jep
     private final IDataStructure dataStructure;
     private final String password;
 
